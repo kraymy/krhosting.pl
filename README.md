@@ -1,0 +1,2 @@
+# krhosting.pl
+hello
